@@ -30,8 +30,10 @@ av```
 
 Lets look at what we can learn from this data by manually parsing it:
 
-1) Race of occupants. '(c)' means 'colored.' There's no way around this. Atlanta was a segregated, racist place in 1922. Get past the shock for a moment... this directory tells us racial demographics! Wow, fascinating.
-2) Occupation of occupants. 
+* Name of occupant. Jas! Is that short for Jasper? We might check the image scans to find out.
+* Address of occupants.
+* Race of occupants. '(c)' means 'colored.' There's no way around this. Atlanta was a segregated, racist place in 1922. Get past the shock for a moment... this directory tells us racial demographics! Wow, fascinating.
+* Occupation of occupants. carp=carpenter, lab=?, tailor, barber.
 
 To summarize, an African American carpenter with the first or last name Jas lived at 95 Love St., Atlanta, GA in 1922.
 
@@ -42,7 +44,7 @@ I don't know about you, but I'm amped! Now I want a historical map. I want to de
 Project Mission
 ===============
 
-1) Parse Atlanta directories from 188X to 192X to determine each resident's name, address, race and occupation.
-2) Map these entries to historical maps of Atlanta.
-3) Map occupation to class.
-4) Visualize changes in race and class over time.
+* Parse Atlanta directories from 188X to 192X to determine each resident's name, address, race and occupation.
+* Map these entries to historical maps of Atlanta.
+* Map occupation to class.
+* Visualize changes in race and class over time.
